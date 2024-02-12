@@ -1,7 +1,7 @@
 ---
 title: "Regularization"
-author: "Your Name"
-date: "2023-01-05"
+author: "Febriany Lete"
+date: "2024-02-06"
 output: html_document
 bibliography: lecture.bib
 ---
